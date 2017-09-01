@@ -1,0 +1,24 @@
+File Edit Options Buffers Tools Python Help                                     
+ #lineplot.py                                                                   
+import numpy as np
+import pylab as pl
+ #make an array of x values                                                     
+x=[1,2,3,4,5]
+ #make an array of y values for each x values                                   
+y= [1,4,9,16,25]
+#use a pylab to plot x and y                                                    
+pl.plot(x,y)
+#show the plot on the screen                                                    
+pl.savefig('temp1.png')
+python trabajoenclase
+
+
+
+
+
+
+
+
+
+-UU-:----F1  programa.py    All L1     (Python)---------------------------------
+programa.py has auto save data; consider M-x recover-this-file
